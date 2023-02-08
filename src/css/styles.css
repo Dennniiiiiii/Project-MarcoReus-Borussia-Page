@@ -249,3 +249,17 @@ footer {
     color: #fff;
     font-weight: 600;
 }
+
+.back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: #FFCC00;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;  
+    transform: rotate(-90deg);
+}
